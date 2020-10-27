@@ -3,7 +3,7 @@ keyring==21.1.0
 pywin32==227
 lxml==4.5.0
 brotli==1.0.7
-cryptography==2.8
+cryptography==3.2
 Cython==0.29.15
 ipaddr==2.2.0
 ordereddict==1.1
