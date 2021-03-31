@@ -1,7 +1,7 @@
 numpy==1.18.1
 keyring==21.1.0
 pywin32==227
-lxml==4.5.0
+lxml==4.6.3
 brotli==1.0.7
 cryptography==2.8
 Cython==0.29.15
