@@ -11,7 +11,7 @@ try:
 except FileNotFoundError:
     print("File does not exist or in use!\n")
     raise 
-else:
+except:
     raise
 
 ## get creds ##
