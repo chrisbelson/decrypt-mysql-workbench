@@ -1,6 +1,6 @@
 numpy==1.18.1
 keyring==21.1.0
-pywin32==227
+pywin32==301
 lxml==4.6.3
 brotli==1.0.7
 cryptography==3.3.2
